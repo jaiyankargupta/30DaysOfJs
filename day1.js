@@ -29,19 +29,29 @@ console.log(c);
 //task-4
 
 let num = 10;
-console.log(typeof c);
+console.log(typeof c); 
+
+//output : number
 
 let str = "JAIYANKARGUPTA"
 console.log(typeof str);
 
+//output : string
+
 let bool = true;
 console.log(typeof bool);
+
+//output : boolean
 
 let arr = [1,2,3,4,5];
 console.log(typeof arr);
 
+//output : object
+
 let obj = {name: "JAIYANKAR", age: 28};
 console.log(typeof obj);
+
+//output : object
 
 
 //activity-4 (Reassigned variable)
