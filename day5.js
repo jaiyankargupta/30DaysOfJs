@@ -140,3 +140,4 @@ const high = (func1, func2, x) => {
 high(sq,cube,2);
 
 //output : 4 8
+
